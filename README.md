@@ -24,6 +24,10 @@ python train.py
 Run demo app:
 streamlit run app.py
 
+## Demo Screenshot
+
+![Surface Defect Inspector](assets/demo.png)
+
 ## Future Improvements
 - Add defect localization (object detection)
 - Improve model accuracy with pretrained weights
